@@ -17,3 +17,5 @@ Hey, I'm Skye and I like cooking, gardening, and salt and vinegar chips.
 Hi I'm Lizzy and I like music and painting.
 
 Hi, I'm Bailey and I like to play tennis.
+
+Hi, I'm Nora I like to read and do embroidery in my free time
