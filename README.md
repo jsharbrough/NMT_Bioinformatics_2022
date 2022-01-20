@@ -9,3 +9,5 @@ Hi, I'm Anika. I enjoy writing science fiction, climbing, and art in my free tim
 Howdy! I'm Raymond and I enjoy cooking and volleyball.
 
 Hi I'm Mac and I like salt and vinegar chips.
+
+Hey, I'm Skye and I like cooking, gardening, and salt and vinegar chips. 
