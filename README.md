@@ -13,3 +13,5 @@ Hi I'm Mac and I like salt and vinegar chips.
 Hello, I'm Alex and I enjoy cooking and being surrounded by nature.
 
 Hey, I'm Skye and I like cooking, gardening, and salt and vinegar chips. 
+
+Hi, I'm Bailey and I like to play tennis.
