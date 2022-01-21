@@ -21,3 +21,5 @@ Hi, I'm Bailey and I like to play tennis.
 Hi, I'm Nora I like to read and do embroidery in my free time
 
 Hello, I'm Katey and I like to play rugby and hike.
+
+Hi, I'm Casia! I enjoy landscape photography and weaving.
