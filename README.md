@@ -25,4 +25,4 @@ Hello, I'm Katey and I like to play rugby and hike.
 Hi, I'm Casia! I enjoy landscape photography and weaving.
 
 Hi, This is Himani. I love reading books and coding.
-Hi, I'm Humu and I love creating artworks and cooking 
+Hi, I'm Humu and I love creating artworks and cooking. 
