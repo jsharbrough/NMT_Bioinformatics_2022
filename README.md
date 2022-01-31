@@ -28,5 +28,5 @@ Hi, This is Himani. I love reading books and coding.
 
 Hi, I'm Humu and I love creating artworks and cooking. 
 
-Hi, This is Himani. I love reading books and coding. 
+ 
 
