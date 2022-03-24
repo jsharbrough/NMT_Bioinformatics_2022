@@ -2,7 +2,9 @@
 GitHub landing page for all things Bioinformatics at New Mexico Tech, 2022
 
 #NMSU Discovery Cluster
+
 https://hpc.nmsu.edu/discovery/
+
 
 
 Welcome Bioinformaticians! My name is Joel and I like snails.
