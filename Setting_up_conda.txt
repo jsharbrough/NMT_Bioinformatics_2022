@@ -1,0 +1,52 @@
+#load anaconda module
+module load anaconda
+
+#Create new conda environment named "bio"
+conda create -n bio
+
+#Activate bio environment
+conda activate bio
+
+#configure channels
+conda config --set channel_priority false
+conda config --add channels default
+conda config --add channels conda-forge
+conda config --add channels bioconda
+
+#install programs to the bio environment
+conda install -c bioconda sra-tools
+conda install -c bioconda minimap2
+conda install -c bioconda miniasm
+conda install -c bioconda bwa
+conda install -c bioconda "samtools>=1.10"
+conda install -c conda-forge rclone
+
+#set up rclone – see rclone instructions: https://github.com/jsharbrough/NMT_Bioinformatics_2022/blob/main/rclone_instructions_short_version.docx
+rclone config
+
+#deactivate conda channel
+conda deactivate
+
+#edit .bash_profile to activate bio environment upon login
+module purge
+cd ~
+vi .bash_profile
+
+
+#type 'a' to enter insert mode
+#add the following code below "# User specific environment and startup programs", using keyboard arrows to navigate
+
+module load anaconda
+conda activate bio
+
+#hit the "Esc" key on your keyboard to exit 
+#type 'ZZ' to save and exit the vi session, ':q!' to quit without saving
+
+#execute bash profile
+source .bash_profile
+
+#test if it worked
+module list
+
+
+
