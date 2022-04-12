@@ -1,0 +1,130 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=28;
+	taxlabels
+	'KC879692.1_Homo_sapiens_neanderthalensis_mitochondrion_complete_genome'
+	'KF982693.1_Homo_sapiens_neanderthalensis_isolate_Okladnikov_2_mitochondrion_sequence'
+	'KJ533544.1_Homo_sapiens_neanderthalensis_isolate_Vi33.17_mitochondrion_complete_genome'
+	'KJ533545.1_Homo_sapiens_neanderthalensis_isolate_Vi33.19_mitochondrion_complete_genome'
+	'KT780370.1_Homo_sapiens_ssp._Denisova_isolate_Denisova8_mitochondrion_complete_genome'
+	'KU131206.2_Homo_sapiens_neanderthalensis_isolate_DC1227_mitochondrion_complete_genome'
+	'KX198082.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ57-1_mitochondrion_complete_genome'
+	'KX198083.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ57-3_mitochondrion_complete_genome'
+	'KX198084.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ56-1_mitochondrion_complete_genome'
+	'KX198085.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ374a-1_mitochondrion_complete_genome'[&!name="Hs_N_Goyet374a"]
+	'KX198086.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ305-7_mitochondrion_complete_genome'
+	'KX198087.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ305-4_mitochondrion_complete_genome'
+	'KX198088.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ57-2_mitochondrion_complete_genome'
+	'KX663333.1_Homo_sapiens_ssp._Denisova_isolate_Denisova2_mitochondrion_complete_genome'
+	'KY751400.2_Homo_sapiens_neanderthalensis_mitochondrion_complete_genome'
+	'MG025536.1_Homo_sapiens_neanderthalensis_isolate_Les_Cottes_Z4-1514_mitochondrion_complete_genome'
+	'MG025537.1_Homo_sapiens_neanderthalensis_isolate_Mezmaiskaya_2_mitochondrion_complete_genome'
+	'MG025538.1_Homo_sapiens_neanderthalensis_isolate_Spy_94a_mitochondrion_complete_genome'
+	'MG025539.1_Homo_sapiens_neanderthalensis_isolate_Vindija_87_mitochondrion_complete_genome'
+	'MG025540.1_Homo_sapiens_neanderthalensis_isolate_Goyet_Q56-1_mitochondrion_complete_genome'
+	'MK033602.1_Homo_sapiens_neanderthalensis_isolate_Denisova15_mitochondrion_complete_genome'
+	'MK123269.1_Homo_sapiens_neanderthalensis_isolate_Scladina_I-4A_mitochondrion_complete_genome'
+	'MK388903.1_Homo_sapiens_neanderthalensis_isolate_Chagyrskaya8_mitochondrion_complete_genome'
+	'MT795654.1_Homo_sapiens_neanderthalensis_isolate_Stajnia_S5000_mitochondrion_complete_genome'
+	'NC_001643.1_Pan_troglodytes_mitochondrion_complete_genome'
+	'NC_012920.1_Homo_sapiens_mitochondrion_complete_genome'
+	'NC_013993.1_Homo_sp._Denisova_Altai_mitochondrion_complete_genome'
+	'NC_023100.1_Homo_heidelbergensis_mitochondrion_complete_genome'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((((((((((((((('KX198085.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ374a-1_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6,'MG025540.1_Homo_sapiens_neanderthalensis_isolate_Goyet_Q56-1_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6)[&!color=#ff0008]:1.0E-6,'KX198084.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ56-1_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6)[&!color=#ff0008]:1.0E-6,'KX198086.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ305-7_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6)[&bootstrap_values=0.67,!color=#ff0008]:6.4E-5,'MG025538.1_Homo_sapiens_neanderthalensis_isolate_Spy_94a_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6)[&bootstrap_values=0.96,!color=#ff0008]:1.92E-4,'KJ533544.1_Homo_sapiens_neanderthalensis_isolate_Vi33.17_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6)[&!color=#ff0008]:1.0E-6,('KJ533545.1_Homo_sapiens_neanderthalensis_isolate_Vi33.19_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6,'MG025539.1_Homo_sapiens_neanderthalensis_isolate_Vindija_87_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6)[&bootstrap_values=0.75,!color=#ff0008]:6.4E-5)[&bootstrap_values=0.97,!color=#ff0008]:1.92E-4,('KX198082.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ57-1_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6,('KX198088.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ57-2_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6,'KX198083.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ57-3_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6)[&!color=#ff0008]:1.0E-6)[&bootstrap_values=1.0,!color=#ff0008]:2.57E-4)[&!color=#ff0008]:6.4E-5,'MG025537.1_Homo_sapiens_neanderthalensis_isolate_Mezmaiskaya_2_mitochondrion_complete_genome'[&!color=#ff0008]:1.28E-4)[&bootstrap_values=0.6,!color=#ff0008]:6.4E-5,'KX198087.1_Homo_sapiens_neanderthalensis_isolate_GoyetQ305-4_mitochondrion_complete_genome'[&!color=#ff0008]:1.28E-4)[&bootstrap_values=1.0,!color=#ff0008]:3.85E-4,'KU131206.2_Homo_sapiens_neanderthalensis_isolate_DC1227_mitochondrion_complete_genome'[&!color=#ff0008]:1.0E-6)[&!color=#ff0008]:2.0E-6,'KF982693.1_Homo_sapiens_neanderthalensis_isolate_Okladnikov_2_mitochondrion_sequence'[&!color=#ff0008]:1.92E-4)[&!color=#ff0008]:1.0E-6,'MG025536.1_Homo_sapiens_neanderthalensis_isolate_Les_Cottes_Z4-1514_mitochondrion_complete_genome'[&!color=#ff0008]:0.001227)[&!color=#ff0008]:1.0E-6,'MK388903.1_Homo_sapiens_neanderthalensis_isolate_Chagyrskaya8_mitochondrion_complete_genome'[&!color=#ff0008]:5.13E-4)[&bootstrap_values=1.0,!color=#ff0008]:6.23E-4,('MT795654.1_Homo_sapiens_neanderthalensis_isolate_Stajnia_S5000_mitochondrion_complete_genome'[&!color=#ff0008]:0.001102,('MK123269.1_Homo_sapiens_neanderthalensis_isolate_Scladina_I-4A_mitochondrion_complete_genome'[&!color=#ff0008]:8.16E-4,('KC879692.1_Homo_sapiens_neanderthalensis_mitochondrion_complete_genome'[&!color=#ff0008]:4.77E-4,'MK033602.1_Homo_sapiens_neanderthalensis_isolate_Denisova15_mitochondrion_complete_genome'[&!color=#ff0008]:5.55E-4)[&bootstrap_values=0.6,!color=#ff0008]:1.26E-4)[&bootstrap_values=0.91,!color=#ff0008]:1.52E-4)[&bootstrap_values=0.58,!color=#ff0008]:8.9E-5)[&bootstrap_values=1.0,!color=#ff0008]:0.00102,'KY751400.2_Homo_sapiens_neanderthalensis_mitochondrion_complete_genome'[&!color=#ff0008]:0.0033)[&bootstrap_values=1.0,!color=#ff0008]:0.002707,'NC_012920.1_Homo_sapiens_mitochondrion_complete_genome':0.005052)[&bootstrap_values=1.0]:0.00692,('NC_023100.1_Homo_heidelbergensis_mitochondrion_complete_genome'[&!color=#03ffd5]:0.004536,('NC_013993.1_Homo_sp._Denisova_Altai_mitochondrion_complete_genome'[&!color=#052bff]:0.003099,('KT780370.1_Homo_sapiens_ssp._Denisova_isolate_Denisova8_mitochondrion_complete_genome'[&!color=#052bff]:0.001281,'KX663333.1_Homo_sapiens_ssp._Denisova_isolate_Denisova2_mitochondrion_complete_genome'[&!color=#052bff]:4.65E-4)[&bootstrap_values=0.93,!color=#052bff]:3.86E-4)[&bootstrap_values=1.0,!color=#052bff]:0.006708)[&bootstrap_values=1.0]:0.002045,'NC_001643.1_Pan_troglodytes_mitochondrion_complete_genome':0.264195);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=2.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="bootstrap_values";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=9;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="bootstrap_values";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="bootstrap_values";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Diamond;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=0;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=0.025;
+	set scaleAxis.minorTicks=0.005;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=false;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=2.0;
+	set scaleBar.scaleRange=0.05;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=11;
+	set tipLabels.fontStyle=3;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
