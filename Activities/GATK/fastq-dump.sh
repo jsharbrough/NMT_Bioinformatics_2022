@@ -10,6 +10,7 @@
 
 
 module load miniconda
+eval "$(conda shell.bash hook)"
 conda activate bio
 fastq-dump --origfmt --split-files --clip --gzip ERR104980
 conda deactivate
