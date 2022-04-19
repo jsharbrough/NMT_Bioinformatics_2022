@@ -22,7 +22,7 @@
 [4/7/22](https://zoom.us/rec/share/PnezVcf8GTwHZO5ra4J3LyG4bLQJn53DVkrfhFu3yOAaIMOwED9fWqrei7DMj4nL.UrhvNXWkf-ZUg8VF) – Variant calling\
 [4/12/22](https://zoom.us/rec/share/XhjLFHs_Pgj1zcRMamyigPNEzxy_PwhPulbnOordhHBa8OgikrhLPot00IUmacd9.AvCeFPNRvqLKtdQF) – Troubleshooting and GATK pipeline\
 [4/14/22](https://zoom.us/rec/share/-6CzgHFWUqBURZc-4CroY2fj04wHGn70zJVb7hxMcBLwzGnhlxQpktRNud3O_ft8.t9bxIVkvwTdD_Yz7) – GATK pipeline practice\
-[4/19/22]() – \
+[4/19/22](https://zoom.us/rec/share/BUmc8CUzfy754Hu2493cL6iLGnP5qn_5ibMs0hdLsF1UkedhRmSHBDAmfHSDCNBr.KORdSXXZCfLGKKXJ) – RNAseq & Analysis\
 [4/21/22]() – \
 [4/26/22]() – \
 [4/28/22]() – \
