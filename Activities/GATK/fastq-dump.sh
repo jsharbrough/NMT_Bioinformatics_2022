@@ -9,6 +9,7 @@
 #SBATCH --output=download_reads.out
 
 
+module purge
 module load miniconda
 eval "$(conda shell.bash hook)"
 conda activate bio
