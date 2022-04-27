@@ -12,6 +12,7 @@
 #SBATCH --output=bwa.out
 
 
+module purge
 module load miniconda
 eval "$(conda shell.bash hook)"
 conda activate bio
