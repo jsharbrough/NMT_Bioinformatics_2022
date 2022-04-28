@@ -11,7 +11,7 @@
 #SBATCH --error=gatk.err
 #SBATCH --output=gatk.out
 
-
+module purge
 module load miniconda
 module load gatk/4.1.2.0-gcc-8.2.0-tea36gs
 eval "$(conda shell.bash hook)"

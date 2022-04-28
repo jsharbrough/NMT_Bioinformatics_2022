@@ -8,7 +8,7 @@
 #SBATCH --error=download_reads.err
 #SBATCH --output=download_reads.out
 
-
+module purge
 module load miniconda
 conda activate bio
 fastq-dump --origfmt --split-files --clip --gzip ERR104980
