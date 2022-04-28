@@ -24,7 +24,7 @@
 [4/14/22](https://zoom.us/rec/share/-6CzgHFWUqBURZc-4CroY2fj04wHGn70zJVb7hxMcBLwzGnhlxQpktRNud3O_ft8.t9bxIVkvwTdD_Yz7) – GATK pipeline practice\
 [4/19/22](https://zoom.us/rec/share/BUmc8CUzfy754Hu2493cL6iLGnP5qn_5ibMs0hdLsF1UkedhRmSHBDAmfHSDCNBr.KORdSXXZCfLGKKXJ) – RNAseq & Analysis\
 [4/21/22]() – \
-[4/26/22]() – \
+[4/26/22](https://zoom.us/rec/share/NEi13fhRj9oOR7MCR5j6MK7Kv6QqMS2Yc7oZGhVWEDRWPoT45aT-acScJDLepkbx.wJ5RCKCLNCFdw1yq) – Machine Learning\
 [4/28/22]() – \
 [5/3/22]() – 
 
