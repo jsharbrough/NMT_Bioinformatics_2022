@@ -25,6 +25,6 @@
 [4/19/22](https://zoom.us/rec/share/BUmc8CUzfy754Hu2493cL6iLGnP5qn_5ibMs0hdLsF1UkedhRmSHBDAmfHSDCNBr.KORdSXXZCfLGKKXJ) – RNAseq & Analysis\
 [4/21/22]() – \
 [4/26/22](https://zoom.us/rec/share/NEi13fhRj9oOR7MCR5j6MK7Kv6QqMS2Yc7oZGhVWEDRWPoT45aT-acScJDLepkbx.wJ5RCKCLNCFdw1yq) – Machine Learning\
-[4/28/22]() – \
+[4/28/22](https://zoom.us/rec/share/IlpIb0Od98-4P5x-MQ41yLjhVZW3x-uqCJNMwB_8RH8XnlFR48W_MRhjV3vw6zbF.JvUAXK_7eOibc2hk) – QTL Mapping, GWAS, and RADSeq\
 [5/3/22]() – 
 
